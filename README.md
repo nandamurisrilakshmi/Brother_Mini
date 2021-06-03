@@ -18,4 +18,13 @@ Problem statement 2: With lots of volunteers woring at random shifts they need i
 
 Solution 2:The packingvolunteers enter the details of content,etc into a simple ata logging app which uploads the details into a google spreadsheet which can be integrated to inventory management tool and prints out lable with all the info.
 ![WhatsApp Image 2021-06-02 at 6 59 02 PM](https://user-images.githubusercontent.com/14889105/120574839-dd681100-c3d4-11eb-9e9d-49b84a67fdaa.jpeg)
+![Screenshot_20210602-201223](https://user-images.githubusercontent.com/14889105/120581912-751f2c80-c3e0-11eb-84e3-f1cad2ab9819.png)
+
+How I Did it
+1.Created a simple Form, ot the data.
+2.Google Script to post data to the spreadsheet via url
+3. Posted the form data from android app to google sheet 
+4. Integreated RJ4250 printer with the android app
+5. Saved the templet image on app installin internal storage which is the templet
+6. Addded text on templet and On savedata is posted and tag/inventory is printed simultaneously.
 
