@@ -1,0 +1,358 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:2:1-127:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\791bae943f46ce379eb6ec75eb0b570d\volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\2dda0425242f1a4704e29fb985a458b2\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\eab914ae2b0ae69bba8b5cdf1163eae3\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\87d3ec77b9b959dc3ab0220b7f1730e2\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [:BrotherPrintLibrary:] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\0154a500af50af01a420276bfcd9d5c1\BrotherPrintLibrary\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\7093625e245be2f9da059fb69635e386\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\d8652eecaec1541e3b83ea201124b443\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\38946188cfcbdf41308ff1e2b9b977bc\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\ebdaba724d630547519146b185ca3ca2\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\b4c6af1ae4345cab0a622f08a7523356\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\57ac94badb477ef97ca9b2d2685353fd\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\f88a7ef34ba2830589c01a6612467832\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\76f967ba5224a2324c7b36a6b6beb8ef\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\89face3daa86ec6e301af2545a00e819\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\7cadb58b8c0c86a09731971f6307fd56\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\efd769fb970c1894bc704f9b03375891\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\99286e9264ccffbdcfeef6a898d405a9\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\c645b14cbf7400c1620284ec778917ed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\69584d4b522a168305e2fe7e786b3c2d\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\f0aa855178a708528b0b89a033e11975\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\5a32061153c0ccb63d4c91e7462c854e\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\928527401c49b22e558969753c624e91\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\b3178544db81ff2083269db8058eb1dd\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\fd28601af1e62f6b2008bfcf849ab48b\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\a76aa01d89e969980164b1fd1e31c0c5\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\3c66927090c50d8cae8d532a1f537c39\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\6fc8c33e0b497e25ecd64651fccd3c8e\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\bd647f4fe7f1f1847c7c2a54d917be44\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\24deb7c88481bc7fd9652b157e2158d8\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\998135bdb7686494daa9579c72a212a4\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\158fb668b4a0516eb81e0ac79af18a91\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:2:1-127:12
+	package
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:2:1-127:12
+		INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:2:1-127:12
+		INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:11:22-71
+application
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:13:5-126:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\791bae943f46ce379eb6ec75eb0b570d\volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\791bae943f46ce379eb6ec75eb0b570d\volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\2dda0425242f1a4704e29fb985a458b2\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\2dda0425242f1a4704e29fb985a458b2\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\87d3ec77b9b959dc3ab0220b7f1730e2\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\87d3ec77b9b959dc3ab0220b7f1730e2\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:15:9-48
+	android:icon
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.brother.ptouch.sdk.printdemo.ScrollingActivity
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:20:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.brother.ptouch.sdk.printdemo.Activity_StartMenu
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:29:9-47:20
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:32:13-45
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:31:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:30:13-47
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:application/octet-stream+data:mimeType:application/pdf+data:mimeType:image/bmp+data:mimeType:image/jpeg+data:mimeType:image/jpg+data:mimeType:image/png
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:34:13-45:29
+action#android.intent.action.SEND
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:37:27-73
+data
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:39:17-55
+	android:mimeType
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:39:23-52
+activity#com.brother.ptouch.sdk.printdemo.Activity_PrintImage
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:48:9-57:20
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:51:13-53
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:50:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:49:13-48
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:53:25-66
+activity#com.brother.ptouch.sdk.printdemo.Activity_PrintPdf
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:58:9-61:54
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:61:13-51
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:60:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:59:13-46
+activity#com.brother.ptouch.sdk.printdemo.Activity_SaveFile
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:62:9-65:54
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:65:13-51
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:64:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:63:13-46
+activity#com.brother.ptouch.sdk.printdemo.Activity_TransferPdz
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:66:9-69:57
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:69:13-54
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:68:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:67:13-49
+activity#com.brother.ptouch.sdk.printdemo.Activity_PrintTemplate
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:70:9-73:59
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:73:13-56
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:72:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:71:13-51
+activity#com.brother.ptouch.sdk.printdemo.Activity_FileList
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:74:9-83:20
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:77:13-56
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:76:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:75:13-46
+activity#com.brother.ptouch.sdk.printdemo.Activity_Settings
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:84:9-87:53
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:87:13-50
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:86:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:85:13-46
+activity#com.brother.ptouch.sdk.printdemo.Activity_NetPrinterList
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:88:9-90:134
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:90:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:89:13-52
+activity#com.brother.ptouch.sdk.printdemo.Activity_BluetoothPrinterList
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:91:9-93:134
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:93:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:92:13-58
+activity#com.brother.ptouch.sdk.printdemo.Activity_MWBluetoothPrinterPreference
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:94:9-97:59
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:97:13-56
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:96:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:95:13-66
+activity#com.brother.ptouch.sdk.printdemo.Activity_RemoveTemplate
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:98:9-101:60
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:101:13-57
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:100:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:99:13-52
+activity#com.brother.ptouch.sdk.printdemo.Activity_ManageTemplate
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:102:9-105:61
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:105:13-58
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:104:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:103:13-52
+activity#com.brother.ptouch.sdk.printdemo.Activity_NetSettings
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:106:9-109:57
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:109:13-54
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:108:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:107:13-49
+activity#com.brother.ptouch.sdk.printdemo.Activity_BluetoothSettings
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:110:9-113:62
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:113:13-59
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:112:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:111:13-55
+activity#com.brother.ptouch.sdk.printdemo.Activity_PrinterSettings
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:114:9-117:60
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:117:13-57
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:116:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:115:13-53
+activity#com.brother.ptouch.sdk.printdemo.Activity_PrinterPreference
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:118:9-121:59
+	android:label
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:121:13-56
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:120:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:119:13-55
+activity#com.brother.ptouch.sdk.printdemo.Activity_BLEPrinterList
+ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:123:9-125:134
+	android:configChanges
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:125:13-131
+	android:name
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml:124:13-52
+uses-sdk
+INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\791bae943f46ce379eb6ec75eb0b570d\volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\791bae943f46ce379eb6ec75eb0b570d\volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\2dda0425242f1a4704e29fb985a458b2\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\2dda0425242f1a4704e29fb985a458b2\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\eab914ae2b0ae69bba8b5cdf1163eae3\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\eab914ae2b0ae69bba8b5cdf1163eae3\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\87d3ec77b9b959dc3ab0220b7f1730e2\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\87d3ec77b9b959dc3ab0220b7f1730e2\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [:BrotherPrintLibrary:] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\0154a500af50af01a420276bfcd9d5c1\BrotherPrintLibrary\AndroidManifest.xml:7:5-9:41
+MERGED from [:BrotherPrintLibrary:] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\0154a500af50af01a420276bfcd9d5c1\BrotherPrintLibrary\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\7093625e245be2f9da059fb69635e386\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\7093625e245be2f9da059fb69635e386\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\d8652eecaec1541e3b83ea201124b443\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\d8652eecaec1541e3b83ea201124b443\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\38946188cfcbdf41308ff1e2b9b977bc\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\38946188cfcbdf41308ff1e2b9b977bc\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\ebdaba724d630547519146b185ca3ca2\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\ebdaba724d630547519146b185ca3ca2\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\b4c6af1ae4345cab0a622f08a7523356\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\b4c6af1ae4345cab0a622f08a7523356\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\57ac94badb477ef97ca9b2d2685353fd\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\57ac94badb477ef97ca9b2d2685353fd\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\f88a7ef34ba2830589c01a6612467832\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\f88a7ef34ba2830589c01a6612467832\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\76f967ba5224a2324c7b36a6b6beb8ef\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\76f967ba5224a2324c7b36a6b6beb8ef\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\89face3daa86ec6e301af2545a00e819\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\89face3daa86ec6e301af2545a00e819\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\7cadb58b8c0c86a09731971f6307fd56\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\7cadb58b8c0c86a09731971f6307fd56\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\efd769fb970c1894bc704f9b03375891\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\efd769fb970c1894bc704f9b03375891\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\99286e9264ccffbdcfeef6a898d405a9\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\99286e9264ccffbdcfeef6a898d405a9\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\c645b14cbf7400c1620284ec778917ed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\c645b14cbf7400c1620284ec778917ed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\69584d4b522a168305e2fe7e786b3c2d\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\69584d4b522a168305e2fe7e786b3c2d\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\f0aa855178a708528b0b89a033e11975\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\f0aa855178a708528b0b89a033e11975\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\5a32061153c0ccb63d4c91e7462c854e\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\5a32061153c0ccb63d4c91e7462c854e\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\928527401c49b22e558969753c624e91\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\928527401c49b22e558969753c624e91\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\b3178544db81ff2083269db8058eb1dd\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\b3178544db81ff2083269db8058eb1dd\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\fd28601af1e62f6b2008bfcf849ab48b\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\fd28601af1e62f6b2008bfcf849ab48b\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\a76aa01d89e969980164b1fd1e31c0c5\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\a76aa01d89e969980164b1fd1e31c0c5\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\3c66927090c50d8cae8d532a1f537c39\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\3c66927090c50d8cae8d532a1f537c39\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\6fc8c33e0b497e25ecd64651fccd3c8e\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\6fc8c33e0b497e25ecd64651fccd3c8e\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\bd647f4fe7f1f1847c7c2a54d917be44\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\bd647f4fe7f1f1847c7c2a54d917be44\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\24deb7c88481bc7fd9652b157e2158d8\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\24deb7c88481bc7fd9652b157e2158d8\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\998135bdb7686494daa9579c72a212a4\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\998135bdb7686494daa9579c72a212a4\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\158fb668b4a0516eb81e0ac79af18a91\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Avinash\Downloads\Brother Device SDK for Android ver121 (1)\Brother Device SDK for Android ver121\Brother Device SDK for Android ver1.2.1\sample\app\caches\transforms-2\files-2.1\158fb668b4a0516eb81e0ac79af18a91\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Avinash\Downloads\pct\Samples\app\src\main\AndroidManifest.xml

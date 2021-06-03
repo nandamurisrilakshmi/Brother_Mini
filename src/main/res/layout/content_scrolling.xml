@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".ScrollingActivity"
+    tools:showIn="@layout/activity_scrolling">
+
+    <LinearLayout
+        android:id="@+id/lay_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical">
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingTop="@dimen/text_margin">
+
+
+            <EditText
+                android:id="@+id/edit_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:layout_weight="1"
+                android:autofillHints=""
+
+                android:ems="10"
+                android:hint="@string/h_name"
+                android:inputType="textPersonName"
+                android:tag="Name" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <EditText
+                android:id="@+id/edit_position"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:autofillHints=""
+                android:ems="10"
+
+                android:hint="@string/h_position"
+                android:inputType="textPersonName"
+                android:tag="Position"
+                android:textAlignment="viewStart"
+                android:gravity="start" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <EditText
+                android:id="@+id/edit_add"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:layout_weight="1"
+                android:autofillHints=""
+                android:ems="10"
+
+                android:hint="@string/h_address"
+                android:inputType="text"
+                android:tag="Location"
+                android:textAlignment="viewStart"
+                android:gravity="start" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <EditText
+                android:id="@+id/edit_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:layout_weight="1"
+
+                android:autofillHints=""
+                android:cursorVisible="true"
+                android:ems="10"
+                android:hint="@string/h_time"
+                android:inputType="number|numberDecimal|time"
+                android:tag="Checkin Time"
+                android:textAlignment="viewStart"
+                android:gravity="start" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <EditText
+                android:id="@+id/edit_vehicle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:layout_weight="1"
+                android:autofillHints=""
+                android:cursorVisible="true"
+                android:ems="10"
+                android:hint="@string/h_vehicle"
+                android:inputType="number"
+
+                android:tag="Vehicle number" />
+        </android.support.design.widget.TextInputLayout>
+
+        <Button
+            android:id="@+id/btnMultiPrint"
+            android:layout_width="201dp"
+            android:layout_height="64dp"
+            android:layout_margin="40dp"
+            android:enabled="true"
+            android:onClick="printit"
+            android:text="Print Tag"
+
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>
