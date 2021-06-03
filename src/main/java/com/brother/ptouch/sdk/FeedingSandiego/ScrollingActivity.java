@@ -457,13 +457,28 @@ Log.d("result bef", result.toString());
         return result;
     }
     public void printme(final View view){
+        postsheet();
+        printTemplet(result.put(comp.getTag().toString(), ((EditText) comp).getText().toString()));
+            Log.d("init printing",file.getPath());
+        mFiles.add(file.toString());
+Log.d("mfiles",mFiles.toString());
+        myPrint.getPrinterStatus();
+
+        ((ImagePrint) myPrint).setFiles(mFiles);
+
+        if (!checkUSB())
+            return;
+
+        // call function to print
+        myPrint.print();
+        Log.d("yipee","Done printing");
+    }
         Log.d("init printing",file.getPath());
-        startActivity(new Intent(this, Activity_PrinterSettings.class));
 
     }
 
     // Assigned to the fab (floating action button) onClick parameter.
-    public void postSheet(final View view) {
+    public void postSheet() {
         // Instantiate the RequestQueue.
         RequestQueue queue = Volley.newRequestQueue(this);
         String url ="https://script.google.com/macros/s/AKfycbzajpQfSuy8UCRVdsZswdAyI6spkwuBae9t8DgrUExEQwAZJwo/exec";
@@ -516,18 +531,5 @@ Log.d("alldata",allData.toString());
 
     @Override
     public void printButtonOnClick() {
-        Log.d("init printing",file.getPath());
-        mFiles.add(file.toString());
-Log.d("mfiles",mFiles.toString());
-        myPrint.getPrinterStatus();
-
-        ((ImagePrint) myPrint).setFiles(mFiles);
-
-        if (!checkUSB())
-            return;
-
-        // call function to print
-        myPrint.print();
-        Log.d("yipee","Done printing");
-    }
+    
 }
